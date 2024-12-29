@@ -1,9 +1,19 @@
 # CODTECH-Task2
 Name: Subbagari Priyanka
+
+
 Company: CODTECH IT SOLUTIONS 
+
+
 ID: CTO8EXR
+
+
 Domain: Java Programming
+
+
 Duration: December 20 to January 20
+
+
 Mentor: Neela Santhosh Kumar
 
 
